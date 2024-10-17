@@ -52,6 +52,19 @@ function Settings({ settings, setSettings }) {
             >
               <option value="light">Light</option>
               <option value="dark">Dark</option>
+              <option value="light">Cupcake</option>
+              <option value="bumblebee">Bumblebee</option>
+              <option value="coffee">Coffee</option>
+              <option value="nord">Nord</option>
+              <option value="sunset">Sunset</option>
+              <option value="acid">Acid</option>
+              <option value="business">Business</option>
+              <option value="dracula">Dracula</option>
+              <option value="autumn">Autumn</option>
+              <option value="dim">Dim</option>
+              <option value="lofi">LoFi</option>
+              <option value="retro">Retro</option>
+              <option value="pastel">Pastel</option>
             </select>
           </div>
           <div className="form-control">
